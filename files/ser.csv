@@ -1,0 +1,6 @@
+"Name","Status","StartType"
+"AarSvc_238e47","Stopped","Manual"
+"AdobeARMservice","Stopped","Manual"
+"AdtAgent","Stopped","Disabled"
+"AESMService","Running","Automatic"
+"AeXAgentSrvHost","Stopped","Manual"

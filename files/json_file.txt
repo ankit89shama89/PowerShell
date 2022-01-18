@@ -1,0 +1,1 @@
+[{"name": "AarSvc_238e47", "type": "Manual", "status": "Stopped"}, {"name": "AdobeARMservice", "type": "Manual", "status": "Stopped"}, {"name": "AdtAgent", "type": "Disabled", "status": "Stopped"}, {"name": "AESMService", "type": "Automatic", "status": "Running"}, {"name": "AeXAgentSrvHost", "type": "Manual", "status": "Stopped"}]
